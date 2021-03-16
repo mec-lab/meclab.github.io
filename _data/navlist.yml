@@ -6,12 +6,6 @@ docs:
 - pagetitle: Team
   url: /team
   
-- pagetitle: Workshops
-  url: /workshops
-      
-- pagetitle: Inspiration
-  url: /inspiration
-  
 - pagetitle: Contact
   url: /contact
   
